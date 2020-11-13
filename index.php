@@ -1,6 +1,9 @@
+<!DOCTYPE html>
 <html>
-<head>new born</head>
-<body>los</body>
-  
-  <p> slemaat datang</p>
+<head>
+	<title>coba git</title>
+</head>
+<body>
+selamat datang di coba git
+</body>
 </html>
