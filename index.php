@@ -4,6 +4,9 @@
 	<title>coba git</title>
 </head>
 <body>
-selamat datang di coba git
+	<div>
+		<div>selamat datang di coba git</div>
+		<div>penambahan div class</div>
+	</div>
 </body>
 </html>
